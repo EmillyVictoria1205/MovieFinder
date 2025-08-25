@@ -1,6 +1,8 @@
 # 🎬 MovieFinder
 Projeto Web: Um aplicativo web para buscar, favoritar e descobrir filmes.
 
+OBS: Este é um projeto fictício, para fins de estudo.
+
 <br/>
 
 ---
